@@ -1,0 +1,27 @@
+x<-c(1,2,3,4,6)
+y<-c('1','2','3','4','5')
+z<-c('how','are','you','?')
+
+str(x)
+str(y)
+str(z)
+1+2=3
+1+2==3
+x==y
+
+sum(x)
+mean(x)
+sum(x)/length(x) #평균값
+max(x)
+min(x)
+
+y<-c(2:60)
+y[19]
+y[4:8]
+
+x>5  #true, false 값으로 출력
+sum(x>5) #5보다 큰 값들의 개수의 합
+
+
+
+
